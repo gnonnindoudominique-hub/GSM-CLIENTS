@@ -1,6 +1,6 @@
 {
   "name": "ETS Bogasto GSM Info",
-  "short_name": "Bogasto",
+  "short_name": "GSM-CLIENTS",
   "description": "Réparation, Déblocage et vente d'Accessoires pour Tous les Téléphones.",
   "start_url": "./index.html",
   "display": "standalone",
